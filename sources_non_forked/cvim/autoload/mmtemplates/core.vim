@@ -2888,7 +2888,7 @@ function! mmtemplates#core#CreateMaps ( library, localleader, ... )
 	if has_key ( t_lib, 'map_commands' )
 		"let TimeStart = reltime()
 		exe t_lib.map_commands
-		echo 'Executing maps: '.reltimestr( reltime( TimeStart ) )
+		"echo 'Executing maps: '.reltimestr( reltime( TimeStart ) )
 		return
 	endif
 	"
