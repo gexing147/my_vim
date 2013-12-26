@@ -2882,7 +2882,6 @@ function! mmtemplates#core#CreateMaps ( library, localleader, ... )
 	elseif ! empty ( a:localleader )
 		let maplocalleader = a:localleader
 	endif
-    echo maplocalleader
 	"
 	" the commands have been generated before
 	if has_key ( t_lib, 'map_commands' )
@@ -2895,7 +2894,7 @@ function! mmtemplates#core#CreateMaps ( library, localleader, ... )
 	" options
 	let options = '<buffer> <silent>'
 	"let leader  = '<LocalLeader>'
-	let leader  = ','
+	let leader  = '.'
 	let sep     = "\n"
 	"
 	let do_jump_map     = 0
