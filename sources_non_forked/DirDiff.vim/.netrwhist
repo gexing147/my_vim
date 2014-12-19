@@ -1,7 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/gexin/smb/project/znap/source/build/azalea_trident_peak_gexin_2013-10-31'
-let g:netrw_dirhist_2='/home/gexin/app/yelp-xsl/test'
-let g:netrw_dirhist_3='/home/gexin/smb/project/znap/source/linux/atheros/kernel_2-6-31/include/net'
-let g:netrw_dirhist_4='/home/gexin/app/WizQTClient/CMakeFiles'
-let g:netrw_dirhist_5='/home/gexin/app/WizQTClient/cmake'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/gexin/.vim_runtime'
+let g:netrw_dirhist_2='/home/gexin/test'
+let g:netrw_dirhist_3='/home/gexin/smb/project/3G_LTE/source/system/lib_time'
+let g:netrw_dirhist_4='/home/gexin/smb/project/znap-hisi/source/zoom/app/timeMgmt'
+let g:netrw_dirhist_5='/gexin/code/cap/source/azalea/app/wrm/vap'
+let g:netrw_dirhist_6='/gexin/code/cap/source/azalea/app/wrm/wrm'
+let g:netrw_dirhist_7='/gexin/code/cap/source/azalea/app/wrm'
+let g:netrw_dirhist_8='/gexin/code/cap/source/azalea/app/wrm/vap'
+let g:netrw_dirhist_9='/gexin/ubus/examples'
